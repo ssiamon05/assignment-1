@@ -22,7 +22,7 @@ In the section below, create an **unordered list** of the three articles you fou
 ## Accompanying Image 
 In this section, please **display one image** to accompany your text, and describe _why_ you included it (~2 - 3 sentences). This will require that you download an image into your project folder. In your description, use **bold** and _italics_ (at least once, for practice) to emphasize some of your points. 
 
-![Protesters In Seattle, Washington](/Users/samsiamon/Desktop/a1-ssiamon05/5ed683b3281d7.image.jpg)
+![Protesters In Seattle, Washington](https://bloximages.newyork1.vip.townnews.com/wenatcheeworld.com/content/tncms/assets/v3/editorial/6/24/624c3f44-a4f1-11ea-b49b-f36597180306/5ed683b3281d7.image.jpg?resize=1200%2C940)
 
 I feel like this image does a great job at emphasizing how **peaceful** these protests truly are. Protesters standing with their hands up, knowing full well that _armed_ officers are point weapons at them, throwing tear gas at them. It is abslolutely disgusting how hard it is to protest without getting hurt in this country.
 
